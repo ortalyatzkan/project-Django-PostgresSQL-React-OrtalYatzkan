@@ -18,7 +18,7 @@ https://reactjs.org/docs/getting-started.html<br>
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics<br>
 https://reactjs.org/docs/react-api.html<br>
 https://reactjs.org/docs/hooks-effect.html<br>
-<b>Fourth stage:</b><br>
+<b>Fourth step:</b><br>
 Now that I have finished building the page structure of the client side by using react, html and java script I started trying to send requests from client side to server, for this purpose I first ran the client side and the network side by using the following commands:
 Client side: npm start<br>
 Server side: python manage.py runserver<br>
@@ -30,10 +30,10 @@ https://docs.djangoproject.com/en/4.0/ref <br>
 Now that I have been able to transfer data from client to server and server to client, I have started learning how to store data on the server.<br>
 Examples that can help (Django code):<br>
 https://codedec.com/tutorials/update-and-save-data-into-database-in-django/<br>
-<b>Step Six:</b><br>
+<b>Six step:</b><br>
 In order to search the database I used the following explanations:<br>
 https://docs.djangoproject.com/en/4.0/topics/db/search/<br>
-<b>Step Seven:</b><br>
+<b>Seven step:</b><br>
 To export the data to an excel file I used the article:<br>
 https://simpleisbetterthancomplex.com/tutorial/2016/07/29/how-to-export-to-excel.html<br>
 Installations:<br>
